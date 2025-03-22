@@ -1,0 +1,25 @@
+LATAR BELAKANG
+
+Universal Health Coverage (UHC) merupakan sistem kesehatan yang memastikan setiap warga negara memperoleh pelayanan kesehatan yang dibutuhkan tanpa harus menghadapi kesulitan finansial (WHO, 2021). Di Indonesia, implementasi UHC melalui program Jaminan Kesehatan Nasional (JKN) telah menjadi prioritas pembangunan kesehatan nasional sejak tahun 2014 (Kementerian Kesehatan RI, 2019).
+
+Kabupaten Bengkulu Utara, sebagai salah satu daerah di Provinsi Bengkulu, menghadapi tantangan signifikan dalam implementasi UHC. Data per 16 November 2023 menunjukkan bahwa tingkat kepesertaan JKN di Kabupaten Bengkulu Utara berada pada posisi terendah di antara 9 kabupaten/kota se-Provinsi Bengkulu. Kondisi ini mencerminkan adanya kesenjangan dalam pencapaian cakupan kesehatan semesta di wilayah tersebut.
+
+Tantangan utama yang dihadapi adalah keterbatasan pembiayaan program UHC oleh Pemerintah Daerah Kabupaten Bengkulu Utara. Pada tahun 2023, pemerintah daerah hanya mampu membiayai program UHC selama 2 bulan. Meskipun terjadi peningkatan alokasi anggaran untuk tahun 2024 yang mencakup 10 bulan pembiayaan, namun pada tahun 2025 justru mengalami penurunan menjadi 9 bulan pembiayaan. Situasi ini menggambarkan adanya fluktuasi dan ketidakstabilan dalam komitmen pembiayaan program UHC.
+
+Menurut Trisnantoro (2019), keberhasilan implementasi UHC sangat bergantung pada komitmen pemerintah daerah dalam hal pembiayaan dan pengelolaan program. Sementara itu, Pusat Kebijakan dan Manajemen Kesehatan UGM (2020) menegaskan bahwa ketidakstabilan pembiayaan program UHC di tingkat daerah dapat berdampak pada keberlanjutan program dan kualitas pelayanan kesehatan yang diterima masyarakat.
+
+Van Meter dan Van Horn (1975) dalam teori implementasi kebijakannya menyatakan bahwa keberhasilan implementasi kebijakan dipengaruhi oleh enam variabel yang saling terkait: (1) standar dan sasaran kebijakan, (2) sumber daya, (3) karakteristik organisasi pelaksana, (4) komunikasi antar organisasi terkait dan kegiatan-kegiatan pelaksanaan, (5) sikap para pelaksana, dan (6) lingkungan sosial, ekonomi dan politik. Teori ini relevan untuk menganalisis implementasi UHC di Kabupaten Bengkulu Utara, mengingat kompleksitas tantangan yang dihadapi.
+
+Berdasarkan Peraturan Presiden Nomor 82 Tahun 2018 tentang Jaminan Kesehatan, pemerintah daerah memiliki kewajiban untuk memberikan jaminan kesehatan bagi masyarakatnya. Namun, implementasi di lapangan seringkali menghadapi berbagai kendala, termasuk keterbatasan anggaran dan kapasitas daerah (DJSN, 2022).
+
+Melihat fenomena tersebut, diperlukan kajian mendalam untuk menganalisis faktor-faktor yang mendukung dan menghambat implementasi kebijakan UHC di Kabupaten Bengkulu Utara. Pemahaman terhadap faktor-faktor tersebut akan memberikan landasan yang kuat bagi pengambilan kebijakan dan perbaikan program di masa mendatang. Penelitian ini menggunakan pendekatan teori implementasi kebijakan Van Meter dan Van Horn (1975) untuk menganalisis secara komprehensif berbagai aspek yang mempengaruhi implementasi UHC di Kabupaten Bengkulu Utara.
+
+Hasil penelitian ini diharapkan dapat memberikan kontribusi signifikan dalam pengembangan strategi implementasi UHC yang lebih efektif di Kabupaten Bengkulu Utara, serta menjadi referensi bagi daerah lain yang menghadapi tantangan serupa dalam implementasi program jaminan kesehatan semesta.
+
+Referensi:
+1. World Health Organization. (2021). Universal Health Coverage (UHC) Fact Sheet.
+2. Kementerian Kesehatan RI. (2019). Laporan Kinerja Program JKN-KIS.
+3. Trisnantoro, L. (2019). Kebijakan Pembiayaan dan Fragmentasi Sistem Kesehatan. Yogyakarta: PKMK FK-KMK UGM.
+4. Van Meter, D., & Van Horn, C. E. (1975). The Policy Implementation Process: A Conceptual Framework. Administration & Society, 6(4), 445-488.
+5. Dewan Jaminan Sosial Nasional. (2022). Laporan Monitoring dan Evaluasi Program JKN.
+6. Pusat Kebijakan dan Manajemen Kesehatan UGM. (2020). Analisis Implementasi JKN di Indonesia.
